@@ -1,5 +1,3 @@
-# **Technical Documentation: FileQueueService**
-
 ## **Overview**
 
 **FileQueueService** is a C++-based HTTP service built using **cpprestsdk (Casablanca)**, **SQLite3**, and **cURL**. It allows users to:
